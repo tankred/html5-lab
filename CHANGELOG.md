@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.1.2] - 2021-10-15
+### Added
+- SRC dir and index file
+
 ## [0.1.1] - 2021-10-14
 ### Added
 - This CHANGELOG file
