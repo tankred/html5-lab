@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.1.4] - 2021-10-22
+### Added
+- Colgroup sample
+
 ## [0.1.3] - 2021-10-22
 ### Changed
 - Index file
