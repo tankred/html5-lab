@@ -14,6 +14,13 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
+### Run samples 
+
+
+```
+browser-sync start --server --files .
+```
+
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/tankred/html5-lab/tags).
